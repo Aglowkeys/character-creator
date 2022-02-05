@@ -2,3 +2,9 @@
     white-space: nowrap;
     overflow-x: auto;
 }
+
+@media (max-width: 650px) {
+    .buttonRow {
+        max-width: 300px;
+    }
+}
